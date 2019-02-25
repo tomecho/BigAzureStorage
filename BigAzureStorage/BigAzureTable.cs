@@ -24,7 +24,7 @@ namespace BigAzureTable
             return tableClient.GetTableReference(_tableName);
         }
 
-        public async Task<List<T>> QueryPosts(TableQuery query)
+        public async Task<List<T>> ExecuteQuery(TableQuery query)
         {
             TableContinuationToken continuationToken = null;
             var queryResults = new List<T>();

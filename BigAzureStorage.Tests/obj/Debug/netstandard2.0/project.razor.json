@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Tom\\Documents\\BigAzureStorage\\BigAzureStorage.Tests\\BigAzureStorage.Tests.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
